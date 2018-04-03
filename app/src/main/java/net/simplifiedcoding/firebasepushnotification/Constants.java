@@ -18,6 +18,6 @@ public class Constants {
     public static final String UNIQUE_ID = "uniqueid";
 
     //register.php address in your server
-    public static final String REGISTER_URL = "http://192.168.94.1/firebasepushnotification/register.php";
+    public static final String REGISTER_URL = "https://192.168.94.1/firebasepushnotification/register.php";
 
 }
